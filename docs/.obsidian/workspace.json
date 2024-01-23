@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fa6f5a169c202e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c6e1bb05fad5f2",
+        "type": "tabs",
+        "dimension": 38.69294605809129,
+        "children": [
+          {
+            "id": "8d3119826e7d3a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6886cd360b6cfd0f",
+        "type": "tabs",
+        "dimension": 61.30705394190872,
+        "children": [
+          {
+            "id": "a4f47e7da3b67d0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14ee0ce1f3cce85",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52d41690384b8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae00f18299252fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b691750e3b2e34fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbea52c81f738074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daaf710cf49e2486",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0634ab92132d29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6317457a3a809f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbf2d0992bb8de65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff679c6bfa2602c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e36cd270fdd7f48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8d3119826e7d3a2e",
+  "lastOpenFiles": [
+    "index.md",
+    "07_APF/configuring-filters-4393cc4.md",
+    "03_Get-Started/walkthrough-tutorial-3da5f4b.md",
+    "glossary-9ef211e.md"
+  ]
+}
