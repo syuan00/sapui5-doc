@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1706002154975,
+      "path": "04_Essentials/support-for-unique-ids-91f28be.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1706002216835,
+      "path": "04_Essentials/handling-ids-in-ui-components-562803c.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1706002270778,
+      "path": "06_SAP_Fiori_Elements/passing-variant-ids-as-url-parameters-4132ffa.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1706002359977,
+      "path": "06_SAP_Fiori_Elements/configuring-navigation-a424275.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1706002405751,
+      "path": "06_SAP_Fiori_Elements/managing-variants-8ce658e.md"
+    }
+  ]
+}

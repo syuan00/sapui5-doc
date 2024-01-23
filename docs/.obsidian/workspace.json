@@ -6,33 +6,40 @@
       {
         "id": "b0c6e1bb05fad5f2",
         "type": "tabs",
-        "dimension": 38.69294605809129,
+        "dimension": 28.37136929460581,
         "children": [
           {
-            "id": "8d3119826e7d3a2e",
+            "id": "440e85d3d338105c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "6886cd360b6cfd0f",
+        "id": "77fd3d37c1e935ba",
         "type": "tabs",
-        "dimension": 61.30705394190872,
+        "dimension": 71.62863070539419,
         "children": [
           {
-            "id": "a4f47e7da3b67d0f",
+            "id": "46eabe10b58aeb38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06_SAP_Fiori_Elements/managing-variants-8ce658e.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "06_SAP_Fiori_Elements/managing-variants-8ce658e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "06_SAP_Fiori_Elements/managing-variants-8ce658e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "06_SAP_Fiori_Elements/managing-variants-8ce658e.md"
               }
             }
           }
@@ -162,11 +169,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d3119826e7d3a2e",
+  "active": "46eabe10b58aeb38",
   "lastOpenFiles": [
     "index.md",
+    "06_SAP_Fiori_Elements/managing-variants-8ce658e.md",
+    "06_SAP_Fiori_Elements/configuring-navigation-a424275.md",
+    "06_SAP_Fiori_Elements/configuring-default-settings-visualizations-sort-order-filter-values-49a6ba5.md",
+    "06_SAP_Fiori_Elements/passing-variant-ids-as-url-parameters-4132ffa.md",
+    "04_Essentials/handling-ids-in-ui-components-562803c.md",
+    "04_Essentials/support-for-unique-ids-91f28be.md",
+    "未命名.canvas",
+    "glossary-9ef211e.md",
+    "notes",
     "07_APF/configuring-filters-4393cc4.md",
-    "03_Get-Started/walkthrough-tutorial-3da5f4b.md",
-    "glossary-9ef211e.md"
+    "03_Get-Started/walkthrough-tutorial-3da5f4b.md"
   ]
 }
